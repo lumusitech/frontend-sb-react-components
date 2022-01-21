@@ -1,5 +1,9 @@
 {
 	"name": "lumusitech-my-storybook-components",
+	"author": {
+		"name": "Luciano Figueroa", 
+		"email": "lumusitech@gmail.com"
+	},
 	"version": "0.1.0",
 	"private": false,
 	"license": "MIT",
